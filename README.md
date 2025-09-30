@@ -54,11 +54,12 @@ This SQL-driven analysis revealed:
 -Improvements needed in delivery quality for long-term growth
 
 ##  ZOMATO SQL PROJECT LINK :
-https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/main/ZOMATO%20PROJECT.pdf
+https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/3da88a03def3d21d7cccea073388a536e8d3acae/zomato%20sql%20project.pdf
 ## SQL QUERIES :
-https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/main/ZOMATO%20SQL%20QUERIES.sql
-## DATASET: 
-https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/main/ZOMATO%20DATASET.zip
+https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/3da88a03def3d21d7cccea073388a536e8d3acae/ZOMATO%20SQL%20QUERIES.sql
+## DATASET:
+https://github.com/chahat355/Zomato_Analysis-SQL-PROJECT-/blob/3da88a03def3d21d7cccea073388a536e8d3acae/ZOMATO%20DATASET.zip
+
 
 
 
